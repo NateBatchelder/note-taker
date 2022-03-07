@@ -1,6 +1,6 @@
 // require FS
 const fs = require("fs");
-const generateUniqueId = require('generate-unique-id');
+
 
 // *function to get the data from the database
 const editNote = (id, note) => {
